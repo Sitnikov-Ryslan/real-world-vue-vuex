@@ -233,21 +233,21 @@
       "attendees": []
     },
     {
-      "id": 3062305,
+      "id": 8254824,
       "user": {
         "id": "abc123",
         "name": "Adam"
       },
-      "category": "nature",
+      "category": "",
       "organizer": {
         "id": "abc123",
         "name": "Adam"
       },
-      "title": "fnn",
-      "description": "ncncng",
-      "location": "vbmvn",
-      "date": "2021-02-02T17:14:00.000Z",
-      "time": "19:00",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
       "attendees": []
     }
   ]
